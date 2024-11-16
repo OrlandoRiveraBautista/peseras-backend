@@ -12,3 +12,7 @@ This repository contains the backend for the Public Transportation System app (P
 - **Data Analytics:** Collect and process usage statistics for system improvement.
 
 ---
+
+### Installation
+
+pip install -r requirements.txt
